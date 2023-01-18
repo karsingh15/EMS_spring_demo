@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: EMS_spring_demo
+  description: Sample Application
+  labels:
+  tags:
+    - spring
+  links:
+    - url: https://github.com/karsingh15/EMS_spring_demo
+      title: Backstage Sample Service Demo GitHub
+      icon: code
+spec:
+  type: service
+  lifecycle: experimental
+  owner: karan
