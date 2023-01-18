@@ -6,7 +6,7 @@ spec:
   type: service
   lifecycle: experimental
 #   icon:
-  owners: karan
+  owner: karan
   techDocs:
     - type: openapi
 #       url: https://raw.githubusercontent.com/my-spring-boot-project/openapi.yaml
